@@ -1,0 +1,23 @@
+{
+  "bin": {
+    "wsjson": "./bin/wsjson"
+  },
+  "bugs": {
+    "url": "https://github.com/wisec/wsjson/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "commander": "~2.12.0",
+    "read": "~1.0.7",
+    "ws": "~3.3.0"
+  },
+  "deprecated": false,
+  "description": "WebSocket cat expecting JSON payloads",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "wscat",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "version": "2.1.1"
+}
