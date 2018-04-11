@@ -7,6 +7,7 @@ JSON in multiple lines.
 git clone git@github.com:wisec/wsjson.git
 cd wsjson
 npm install
+bin/wsjson -h
 ```
 # Usage
 Same as wscat:
