@@ -5,7 +5,8 @@ JSON in multiple lines.
 ```
 $ wsjson -c ws://echo.websocket.org 
 connected (press CTRL+C to quit)
-> {"test":2
+> {
+ "test":2
 }
 > {"result":"ok"}
 
